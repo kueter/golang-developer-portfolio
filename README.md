@@ -45,6 +45,3 @@
 - **Lien vers le code** : [Lien vers le repository GitHub]()
 - **Démo** : [Lien vers une démo]()
 
-## Contact
-- **Email** : [email](mailto:roodolphe@live.fr)
-- **LinkedIn** : [lien vers votre profil LinkedIn](https://linkedin.com/in/roodolphe)
