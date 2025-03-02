@@ -1,7 +1,6 @@
-# Mon Portfolio 
+## Projets 
 ![Go](https://img.shields.io/badge/Go-1.19-blue)
 
-## Projets
 
 ### Projet 1 : Go Password Manager
 
@@ -47,5 +46,5 @@
 - **Démo** : [Lien vers une démo]()
 
 ## Contact
-- **Email** : [votre email]
-- **LinkedIn** : [lien vers votre profil LinkedIn]
+- **Email** : [email](mailto:roodolphe@live.fr)
+- **LinkedIn** : [lien vers votre profil LinkedIn](https://linkedin.com/in/roodolphe)
